@@ -3,6 +3,12 @@
 D = [300, 300, 100]
 W = [200]
 
+# deposite = int(input("Enter Deposite amount: "))
+# withdraw = int(input("Enter Withdraw amount: "))
+
+# D.append(deposite)
+# W.append(withdraw)
+
 # total_deposit = sum(D)
 # total_withdrawl = sum(W)
 

@@ -13,7 +13,6 @@ if 6 <= len(password) <=12 and " " not in password:
     for char in password:
         if char.islower():
             has_lower = True
-
         elif char.isupper():
             has_upper = True
         elif char.isdigit():
